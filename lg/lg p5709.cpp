@@ -13,5 +13,5 @@ int main(){
     else         
         cout<<max(m-s/t -1,0)<<endl;
     return 0;
-    
+    //example explaination 
 }
