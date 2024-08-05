@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9AC65A602C60C9B500C524CE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9AC65A5F2C60C9B500C524CE /* main.cpp */; };
+		9AC65A682C60C9D500C524CE /* lg p5709.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9AC65A662C60C9D500C524CE /* lg p5709.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		9AC65A5C2C60C9B500C524CE /* lg */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = lg; sourceTree = BUILT_PRODUCTS_DIR; };
-		9AC65A5F2C60C9B500C524CE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9AC65A662C60C9D500C524CE /* lg p5709.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "lg p5709.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		9AC65A5E2C60C9B500C524CE /* lg */ = {
 			isa = PBXGroup;
 			children = (
-				9AC65A5F2C60C9B500C524CE /* main.cpp */,
+				9AC65A662C60C9D500C524CE /* lg p5709.cpp */,
 			);
 			path = lg;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9AC65A602C60C9B500C524CE /* main.cpp in Sources */,
+				9AC65A682C60C9D500C524CE /* lg p5709.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
